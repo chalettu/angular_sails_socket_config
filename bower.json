@@ -1,0 +1,24 @@
+{
+  "name": "angular_sails_socket_config",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "Chris Hale"
+  ],
+  "description": "",
+  "main": "config.js",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
